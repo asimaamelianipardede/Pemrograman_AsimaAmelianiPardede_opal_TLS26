@@ -46,17 +46,5 @@ AlienInTheMiddle.cpp	Menyandikan pesan input menggunakan sistem sandi geser berb
 Ketentuan Implementasi
 Hanya menggunakan library iostream.
 Tidak menggunakan function bawaan dari library lain — seluruh function dibuat secara manual (user-defined function).
-▶️ Cara Menjalankan Program
-
-Kompilasi dan jalankan program menggunakan compiler C++ (contoh: g++):
-
-bash
-# Problem 1: The Last Astronaut
-g++ TheLastAstronaut.cpp -o TheLastAstronaut
-./TheLastAstronaut
-
-# Problem 2: Alien-In-The-Middle
-g++ AlienInTheMiddle.cpp -o AlienInTheMiddle
-./AlienInTheMiddle
 
 Program akan meminta input sesuai kebutuhan masing-masing problem (misalnya jumlah astronot dan nilai K awal untuk Problem 1, atau pesan yang ingin disandikan untuk Problem 2), lalu menampilkan hasil output di layar.
